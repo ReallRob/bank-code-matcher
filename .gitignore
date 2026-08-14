@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+
+# IDE and local settings
+.idea/
+.vscode/
+*.log
+
+# Excel data and generated results
+*.xls
+*.xlsx
+*.xlsm
+~$*
+
+# Packaging output
+build/
+dist/
+*.spec
+*.exe
+
+# QA artifacts
+*.pdf
+*.png
+
+# One-off local probes
+bank-name-from-code/测试.py
+
+# Archives, launchers, and local documentation
+*.zip
+*.rar
+*.7z
+*.bat
+*.cmd
+*.doc
+*.docx
